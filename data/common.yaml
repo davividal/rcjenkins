@@ -1,0 +1,10 @@
+---
+nginx::nginx_upstreams:
+  'jenkins':
+    ensure: present
+    members:
+      - localhost:9000
+nginx::nginx_vhosts:
+  'jenkins.intranet.lan':
+    ssl: true
+    proxy: 'http://jenkins'

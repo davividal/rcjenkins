@@ -1,0 +1,15 @@
+{
+  "author": "Davi Koscianski Vidal",
+  "dependencies": [
+    {"name":"jfryman-nginx", "version_requirement":">=0.3.0 < 1.0.0"}
+  ],
+  "license": "",
+  "name": "davividal-jenkins",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
