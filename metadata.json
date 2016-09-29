@@ -11,5 +11,6 @@
   "source": "",
   "summary": "",
   "tags": [],
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "data_provider": "hiera"
 }
